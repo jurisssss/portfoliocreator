@@ -1,0 +1,10 @@
+Package: portfoliocreator
+Type: Package
+Title: Builds portolios for Asset-pricing models
+Version: 0.1.0
+Author: juris
+Maintainer: The package maintainer <jurissss90@gmail.com>
+Description: The package helps you create long/short Portfolios, decile portfolios as well as the market portfolio. following Fama and French (1993). x: Market cap; y: Return data, z: some other data, all with ISIN in the first column.
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
